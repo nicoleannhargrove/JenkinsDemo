@@ -33,7 +33,7 @@ pipeline {
         }
 	stage('Build Complete') {
             steps {
-                echo 'Hey Sim 7!'
+                echo 'Hey Sim 7 Project week!'
             }
         }
     }
